@@ -1,1 +1,1 @@
-# Horizo-website
+# Horizon-website
